@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Formulário em 3 fases</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <form>
+      <h2>Quantidade de alunos</h2>
+      <label for="quantidade">Quantos alunos deseja cadastrar?</label>
+      <input type="number" id="quantidade" name="quantidade">
+      <button type="button" onclick="criarCampos()">Criar campos</button>
+
+      <div id="campos"></div>
+
+      <button type="button" onclick="listarAlunos()">Listar alunos</button>
+    </form>
+
+    <script src="script.js"></script>
+  </body>
+</html>
