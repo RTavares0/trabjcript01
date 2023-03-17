@@ -1,5 +1,7 @@
 # trabjcript01
 
+https://rtavares0.github.io/trabjcript01/
+
 Este código consiste em duas funções, criarCampos e listarAlunos, que trabalham em conjunto para criar campos de texto dinamicamente e exibir seus valores em uma lista.
 
 A função criarCampos é chamada quando o usuário preenche o campo "quantidade" e clica no botão "Criar campos". 
